@@ -53,9 +53,7 @@ public class TestClass1 extends  Base {
 	public void beforeMethod()
 	{
 		System.out.println("BeforeMethod");
-		System.out.println("BeforeMethod");
-		System.out.println("BeforeMethod");
-		System.out.println("BeforeMethod");
+		
 		driver.get("https://en-gb.facebook.com/");
 		
     }
